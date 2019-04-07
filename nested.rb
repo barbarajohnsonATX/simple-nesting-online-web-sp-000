@@ -129,4 +129,8 @@ def adding_to_dennis
         }
      }
 
-end
+  programmer_hash[:dennis_ritchie] = {:langua
+  
+  end
+  
+  
